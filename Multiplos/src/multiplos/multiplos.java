@@ -7,7 +7,7 @@ package multiplos;
 import java.util.Scanner;
         public class multiplos {
     
-
+jnj
     /**
      * @param args the command line arguments
      */
